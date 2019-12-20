@@ -14,5 +14,11 @@
 **/.project
 **/.workspace
 
+#OSX
+**/.DS_Store
+
+#XCode
+**/*.xcodeproj
+**/*.xcworkspace
 
 **/logs/
